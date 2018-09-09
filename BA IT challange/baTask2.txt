@@ -1,0 +1,6 @@
+Duomenų bazė sudaryta iš 7 letelių
+Klientas sudarytas iš jo pasirinktų prekių, tai yra krepšelis
+Krepšelyje yra saugomos prekės, o pačios prekės yra apibrėžiamos tam tikra kategorija, pavyzdžiui
+"pienas" jį gali tiekti keletą skirtingų tiekėjų, todėl svarbu bandant pažinti klientų pasirinkimus
+būtina žinoti kurio tiekėjo daugiausiai atsižvelgia bei kokį prekių kiekį klientas perka.
+Kliento prekiavimosi laikas gali keistis pagal jo poreikius ir kokias prekias jis galvos pirkti.

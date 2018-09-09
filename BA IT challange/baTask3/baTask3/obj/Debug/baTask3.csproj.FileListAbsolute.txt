@@ -1,0 +1,29 @@
+C:\Users\Žygimantas Gudanis\source\repos\baTask3\baTask3\bin\Debug\baTask3.exe.config
+C:\Users\Žygimantas Gudanis\source\repos\baTask3\baTask3\bin\Debug\baTask3.exe
+C:\Users\Žygimantas Gudanis\source\repos\baTask3\baTask3\bin\Debug\baTask3.pdb
+C:\Users\Žygimantas Gudanis\source\repos\baTask3\baTask3\obj\Debug\baTask3.csprojAssemblyReference.cache
+C:\Users\Žygimantas Gudanis\source\repos\baTask3\baTask3\obj\Debug\baTask3.Properties.Resources.resources
+C:\Users\Žygimantas Gudanis\source\repos\baTask3\baTask3\obj\Debug\baTask3.csproj.GenerateResource.cache
+C:\Users\Žygimantas Gudanis\source\repos\baTask3\baTask3\obj\Debug\baTask3.csproj.CoreCompileInputs.cache
+C:\Users\Žygimantas Gudanis\source\repos\baTask3\baTask3\obj\Debug\baTask3.exe
+C:\Users\Žygimantas Gudanis\source\repos\baTask3\baTask3\obj\Debug\baTask3.pdb
+C:\Users\Žygimantas Gudanis\source\repos\baTask3\baTask3\obj\Debug\baTask3.Form1.resources
+C:\Users\Zygis\Desktop\baTask3\baTask3\bin\Debug\baTask3.exe.config
+C:\Users\Zygis\Desktop\baTask3\baTask3\bin\Debug\baTask3.exe
+C:\Users\Zygis\Desktop\baTask3\baTask3\bin\Debug\baTask3.pdb
+C:\Users\Zygis\Desktop\baTask3\baTask3\obj\Debug\baTask3.csprojResolveAssemblyReference.cache
+C:\Users\Zygis\Desktop\baTask3\baTask3\obj\Debug\baTask3.Form1.resources
+C:\Users\Zygis\Desktop\baTask3\baTask3\obj\Debug\baTask3.Properties.Resources.resources
+C:\Users\Zygis\Desktop\baTask3\baTask3\obj\Debug\baTask3.csproj.GenerateResource.Cache
+C:\Users\Zygis\Desktop\baTask3\baTask3\obj\Debug\baTask3.exe
+C:\Users\Zygis\Desktop\baTask3\baTask3\obj\Debug\baTask3.pdb
+D:\Users\Žygimantas Gudanis\Desktop\BA IT challange\baTask3\baTask3\bin\Debug\baTask3.exe.config
+D:\Users\Žygimantas Gudanis\Desktop\BA IT challange\baTask3\baTask3\bin\Debug\baTask3.exe
+D:\Users\Žygimantas Gudanis\Desktop\BA IT challange\baTask3\baTask3\bin\Debug\baTask3.pdb
+D:\Users\Žygimantas Gudanis\Desktop\BA IT challange\baTask3\baTask3\obj\Debug\baTask3.csprojAssemblyReference.cache
+D:\Users\Žygimantas Gudanis\Desktop\BA IT challange\baTask3\baTask3\obj\Debug\baTask3.Form1.resources
+D:\Users\Žygimantas Gudanis\Desktop\BA IT challange\baTask3\baTask3\obj\Debug\baTask3.Properties.Resources.resources
+D:\Users\Žygimantas Gudanis\Desktop\BA IT challange\baTask3\baTask3\obj\Debug\baTask3.csproj.GenerateResource.cache
+D:\Users\Žygimantas Gudanis\Desktop\BA IT challange\baTask3\baTask3\obj\Debug\baTask3.csproj.CoreCompileInputs.cache
+D:\Users\Žygimantas Gudanis\Desktop\BA IT challange\baTask3\baTask3\obj\Debug\baTask3.exe
+D:\Users\Žygimantas Gudanis\Desktop\BA IT challange\baTask3\baTask3\obj\Debug\baTask3.pdb
